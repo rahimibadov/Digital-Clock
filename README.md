@@ -1,3 +1,3 @@
 # Digital-Clock
 
-![](ditigal.gif)
+![](digital.gif)
