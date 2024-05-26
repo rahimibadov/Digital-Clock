@@ -1,1 +1,3 @@
 # Digital-Clock
+
+![](ditigal.gif)
